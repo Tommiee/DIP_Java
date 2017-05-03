@@ -1,0 +1,3 @@
+name : kaas
+age : 56
+postcode : 4456KD
